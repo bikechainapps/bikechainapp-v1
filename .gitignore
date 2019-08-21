@@ -1,0 +1,5 @@
+# not to be included as it has sensitive information
+.env
+.DS_Store
+bcapp.sqlite
+.vscode/*
