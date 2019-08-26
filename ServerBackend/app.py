@@ -261,7 +261,7 @@ def sendTextMessage():
 
     phoneNum = "+1" + top[2]
     body = "It is now your turn " + \
-        top[3]+"!!\n\nArrive at the workshop as soon as possible, or your turn will be cancelled."
+        top[3]+"!!\n\nArrive at the workshop in 5 minutes, or your turn will be cancelled."
 
     sendMessage(phoneNum, body)
 
