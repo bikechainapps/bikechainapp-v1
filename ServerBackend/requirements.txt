@@ -2,7 +2,7 @@ asn1crypto==0.24.0
 astroid==1.6.6
 autopep8==1.4.4
 backports.functools-lru-cache==1.5
-bottle==0.12.17
+bottle==0.12.20
 certifi==2019.6.16
 cffi==1.12.3
 chardet==3.0.4
